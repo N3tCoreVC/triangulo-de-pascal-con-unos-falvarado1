@@ -82,7 +82,7 @@ namespace myapp
            
            for (int i=1 ; i<=nCant; i++)
            {
-              strbase=strbase+"* ";
+              strbase=strbase+"1 ";
            }
            strbase=espacio+strbase;
            return strbase;
