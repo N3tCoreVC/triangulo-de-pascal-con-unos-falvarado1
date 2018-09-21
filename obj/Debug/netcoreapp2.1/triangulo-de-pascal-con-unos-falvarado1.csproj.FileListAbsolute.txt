@@ -1,0 +1,11 @@
+C:\proyectos\CursoVSCode\Session2\triangulo-de-pascal-con-unos-falvarado1\obj\Debug\netcoreapp2.1\triangulo-de-pascal-con-unos-falvarado1.csprojAssemblyReference.cache
+C:\proyectos\CursoVSCode\Session2\triangulo-de-pascal-con-unos-falvarado1\obj\Debug\netcoreapp2.1\triangulo-de-pascal-con-unos-falvarado1.csproj.CoreCompileInputs.cache
+C:\proyectos\CursoVSCode\Session2\triangulo-de-pascal-con-unos-falvarado1\obj\Debug\netcoreapp2.1\triangulo-de-pascal-con-unos-falvarado1.AssemblyInfoInputs.cache
+C:\proyectos\CursoVSCode\Session2\triangulo-de-pascal-con-unos-falvarado1\obj\Debug\netcoreapp2.1\triangulo-de-pascal-con-unos-falvarado1.AssemblyInfo.cs
+C:\proyectos\CursoVSCode\Session2\triangulo-de-pascal-con-unos-falvarado1\bin\Debug\netcoreapp2.1\triangulo-de-pascal-con-unos-falvarado1.deps.json
+C:\proyectos\CursoVSCode\Session2\triangulo-de-pascal-con-unos-falvarado1\bin\Debug\netcoreapp2.1\triangulo-de-pascal-con-unos-falvarado1.runtimeconfig.json
+C:\proyectos\CursoVSCode\Session2\triangulo-de-pascal-con-unos-falvarado1\bin\Debug\netcoreapp2.1\triangulo-de-pascal-con-unos-falvarado1.runtimeconfig.dev.json
+C:\proyectos\CursoVSCode\Session2\triangulo-de-pascal-con-unos-falvarado1\bin\Debug\netcoreapp2.1\triangulo-de-pascal-con-unos-falvarado1.dll
+C:\proyectos\CursoVSCode\Session2\triangulo-de-pascal-con-unos-falvarado1\bin\Debug\netcoreapp2.1\triangulo-de-pascal-con-unos-falvarado1.pdb
+C:\proyectos\CursoVSCode\Session2\triangulo-de-pascal-con-unos-falvarado1\obj\Debug\netcoreapp2.1\triangulo-de-pascal-con-unos-falvarado1.dll
+C:\proyectos\CursoVSCode\Session2\triangulo-de-pascal-con-unos-falvarado1\obj\Debug\netcoreapp2.1\triangulo-de-pascal-con-unos-falvarado1.pdb
