@@ -40,9 +40,11 @@ namespace myapp
             string numero;
             numero=Console.ReadLine();
             int numbase= Int32.Parse(numero);
+            string slista ="";
             for (int i=1 ; i<=numbase; i++)
              {
-                Console.WriteLine(datbase(i, numbase));
+                slista=datbase(i, numbase);
+                Console.WriteLine(slista);
              }
 
         }
